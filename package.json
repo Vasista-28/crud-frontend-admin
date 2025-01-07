@@ -37,6 +37,7 @@
   },
   "proxy": "https://crud-application-dcf9fga0fvcaffbp.centralus-01.azurewebsites.net",
   "devDependencies": {
-    "@testing-library/jest-dom": "^6.6.3"
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0"
   }
 }
