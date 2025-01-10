@@ -43,3 +43,10 @@ This is the **Admin Frontend** for the CRUD application, built with React. It pr
     ```
 
 2. Deploy the `build/` folder to an **Azure Static Web App** or another hosting service of your choice.
+
+
+## Tech Stack
+- React
+- Axios
+- Azure Static Web App
+
